@@ -67,6 +67,7 @@ After the matrix, write a Recommendations section. For each criterion rated Need
 
 - Identify what is missing or wrong at the level of strategy, angle, or tone — not at the sentence level.
 - Tell the writer the direction of the change needed. What kind of shift? What dimension should move and which way?
+- When recommending a direction, default to pushing toward greater urgency, sharper demand framing, and stronger action orientation. Only pull back from this default if the funnel stage, persona, or stated task goal make a softer register genuinely appropriate — and if so, state that reasoning explicitly. The working assumption is that most copy benefits from more tension, not less.
 - Be direct. Do not soften findings or hedge critique.
 - Do not suggest specific replacement copy or produce a rewrite.
 
